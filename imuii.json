@@ -1,11 +1,11 @@
 {
-  "name": "skinmatch-ai",
+  "name": "skinmatch-final",
   "framework": "react",
   "language": "typescript",
   "buildCommand": "npm install && npm run build",
   "startCommand": "npm run dev",
-  "domain": "skinmatch-v2",
+  "domain": "skinmatch-final",
   "email": "muhammadalbab06@gmail.com",
-  "secretKey": "imuii_8b23e7ad927002950ad16dc3a6935d4b1fea11fc2ecf87fe4ebc637ebf53d021",
-  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/skinmatch-v2-00c6ca8a.git"
+  "secretKey": "imuii_6b1e90f46cbad0282f624fb9c9332cce4e2b5ba65042b9bb85cf27c69b739cde",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/skinmatch-final-76cc2ddb.git"
 }
