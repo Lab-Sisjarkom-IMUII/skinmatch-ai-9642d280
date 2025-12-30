@@ -1,11 +1,11 @@
 {
-  "name": "skinmatch-final",
+  "name": "skinmatch-ai",
   "framework": "react",
   "language": "typescript",
-  "buildCommand": "npm install && npm run build",
+  "buildCommand": "vite build",
   "startCommand": "npm run dev",
-  "domain": "skinmatch-final",
+  "domain": "vitereactshadcnts",
   "email": "muhammadalbab06@gmail.com",
-  "secretKey": "imuii_6b1e90f46cbad0282f624fb9c9332cce4e2b5ba65042b9bb85cf27c69b739cde",
-  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/skinmatch-final-76cc2ddb.git"
+  "secretKey": "imuii_cbc61a62c8faaad0808eb8fdee88a664a89f92f5b4c80efad9432a5fa66c4175",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/vitereactshadcnts-da1bad1f.git"
 }
