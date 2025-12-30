@@ -4,8 +4,8 @@
   "language": "typescript",
   "buildCommand": "vite build",
   "startCommand": "npm run dev",
-  "domain": "vitereactshadcnts",
+  "domain": "skinmatch-ai",
   "email": "muhammadalbab06@gmail.com",
-  "secretKey": "imuii_cbc61a62c8faaad0808eb8fdee88a664a89f92f5b4c80efad9432a5fa66c4175",
-  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/vitereactshadcnts-da1bad1f.git"
+  "secretKey": "imuii_c89afabd4dc02a2ddef4745a19878fcea62e10b0a66f4aea7c8fcf8979a8ad7b",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/skinmatch-ai-9642d280.git"
 }
